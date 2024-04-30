@@ -64,6 +64,7 @@ function App() {
           오늘은 시간상 결합(Merging)까지만... </li>
         <li>
           다음시간에는 각 파일 페이지 편집까지 해보죠 </li>  
+        <li>have a good day</li>  
         
       </h3>
     </>
